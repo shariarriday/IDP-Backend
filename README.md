@@ -8,6 +8,7 @@
   <li>Run <code>conda create -n env2</code> anywhere</li>
   <li>Run <code>conda activate env2</code> anywhere</li>
   <li>Run <code>pip install -r requirements2.txt</code> anywhere</li>
+  <li>Update the batchfile with the enviroment location and script location</li>
   <li>Run <code>python api.py</code> in the project directory</li>
   <h2>env2 must be selected for running the api.py file</h2>
 </ol>

@@ -9,7 +9,7 @@
   <li>Run <code>conda activate env2</code> anywhere</li>
   <li>Run <code>pip install -r requirements2.txt</code> anywhere</li>
   <li>Run <code>python api.py</code> in the project directory</li>
-  <h3>env2 must be selected for running the api.py file</h3>
+  <h2>env2 must be selected for running the api.py file</h2>
 </ol>
 
 <h3>Custom Classifier Training Notebook:</h3>

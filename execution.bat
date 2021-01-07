@@ -1,0 +1,2 @@
+C:/ProgramData/Anaconda3/envs/tf-gpu/python.exe "G:/Actual Shits/IDP/Server/IDP-Backend/IDP-Backend/Inference.py"
+C:/Users/User/.conda/envs/idp/python.exe "G:/Actual Shits/IDP/Server/IDP-Backend/IDP-Backend/speech.py"

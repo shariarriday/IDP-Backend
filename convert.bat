@@ -1,0 +1,2 @@
+del "G:\Actual Shits\IDP\Server\IDP-Backend\IDP-Backend\static\result.mp3"
+"C:\Program Files\CoolUtils\TotalAudioConverter\AudioConverter.exe" "G:\Actual Shits\IDP\Server\IDP-Backend\IDP-Backend\static\result.wav" "G:\Actual Shits\IDP\Server\IDP-Backend\IDP-Backend\static\result.mp3" -c mp3
